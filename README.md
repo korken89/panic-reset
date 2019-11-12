@@ -1,6 +1,8 @@
 # `panic-reset`
 
-> Set the panicking behavior to reset the chip
+[![Build Status](https://travis-ci.org/korken89/panic-reset.svg?branch=master)](https://travis-ci.org/korken89/panic-reset)
+
+> Set the panicking behavior to reset the chip, implemented for Cortex-M processors
 
 ## License
 
