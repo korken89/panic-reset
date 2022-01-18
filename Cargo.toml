@@ -10,4 +10,4 @@ version = "0.1.0"
 readme = "README.md"
 
 [dependencies]
-cortex-m = "0.6"
+cortex-m = ">0.6, <0.8"
